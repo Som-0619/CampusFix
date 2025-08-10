@@ -118,10 +118,6 @@ A comprehensive complaint management system for colleges with admin dashboard, e
 3. Generate App Password
 4. Update `.env` file with credentials
 
-### Email Recipients
-- **Maintenance Team**: rbssajjan@gmail.com
-- **Principal**: principal@atria.edu.in
-- **Users**: Email confirmation when complaints are resolved
 
 ## 🔄 Workflow
 
