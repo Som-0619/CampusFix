@@ -1,4 +1,4 @@
-# ATR3 - College Complaint Redressal System
+# CampusFix - College Complaint Redressal System
 
 A comprehensive complaint management system for colleges with admin dashboard, email notifications, and automated workflows.
 
@@ -11,6 +11,7 @@ A comprehensive complaint management system for colleges with admin dashboard, e
 - **Local Storage**: View previous complaints offline
 - **Status Tracking**: Real-time complaint status updates
 
+
 ### Admin Features
 - **Secure Login**: Admin authentication system
 - **Dashboard**: Comprehensive admin dashboard with 4 main functions
@@ -19,12 +20,13 @@ A comprehensive complaint management system for colleges with admin dashboard, e
 - **Status Overview**: Track pending vs solved complaints
 - **Logout**: Secure session management
 
+
 ### Principal Features
 - **Principal Dashboard**: View all complaints across departments
 - **Status Monitoring**: Track pending and resolved complaints
 - **Department Overview**: Filter complaints by department
 
-### Email System
+### Notification System
 - **Automated Notifications**: Send emails to maintenance team
 - **Resolution Confirmations**: Email users when complaints are resolved
 - **Reminder System**: Auto-reminders for 24+ hour pending complaints
@@ -38,11 +40,15 @@ A comprehensive complaint management system for colleges with admin dashboard, e
 - Principal Dashboard button
 - Previous Complaints access
 
+  <img width="317" height="664" alt="Screenshot 2026-02-04 at 10 44 56 AM" src="https://github.com/user-attachments/assets/7e841627-37d7-4c44-8daf-05afb2530f42" />
+
 ### Admin Dashboard
 - View All Complaints
 - Mark as Solved
 - Check Status
 - Logout
+
+  <img width="317" height="664" alt="Screenshot 2026-02-04 at 10 47 51 AM" src="https://github.com/user-attachments/assets/63dd06e1-9cd2-4ab2-975b-e1b353ac1011" />
 
 ### Complaint Form
 - Name, Location, Details fields
@@ -118,6 +124,7 @@ A comprehensive complaint management system for colleges with admin dashboard, e
 3. Generate App Password
 4. Update `.env` file with credentials
 
+<img width="317" height="664" alt="Screenshot 2026-02-04 at 10 50 06 AM" src="https://github.com/user-attachments/assets/4aff9373-ddbe-40a3-8f4a-097b0b16494f" />
 
 ## 🔄 Workflow
 
@@ -127,6 +134,8 @@ A comprehensive complaint management system for colleges with admin dashboard, e
 3. Optionally attaches image
 4. Data saved locally and sent to backend
 5. Email notification sent to maintenance team
+
+<img width="317" height="664" alt="Screenshot 2026-02-04 at 10 49 25 AM" src="https://github.com/user-attachments/assets/26f6bc5d-870a-4f8c-a189-c4e2b8e1e765" />
 
 ### Admin Resolution
 1. Admin logs in to dashboard
